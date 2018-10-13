@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+theme = "kube"
+title = "Flower API"
+description = "You do what you do best - programming. We do ours - finding elegant yet cheap roses and sending to your beloved ones."
